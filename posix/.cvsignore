@@ -1,0 +1,10 @@
+.deps
+*.o
+*~
+lib*.a
+test-fnmatch
+test-getopt
+test-glob
+test-remove
+test-run
+test-wordexp

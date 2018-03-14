@@ -1,0 +1,7 @@
+.deps
+*.o
+*~
+lib*.a
+test-iioformat
+test-iioscanf
+test-iiowc-printf

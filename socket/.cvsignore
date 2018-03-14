@@ -1,0 +1,7 @@
+.deps
+*.o
+*~
+lib*.a
+test-aton
+test-hton
+test-ntoa

@@ -1,0 +1,7 @@
+.deps
+*.o
+*~
+lib*.a
+rpcgen
+rpcinfo
+*.stmp

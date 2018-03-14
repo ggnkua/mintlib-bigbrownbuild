@@ -1,0 +1,10 @@
+.deps
+*.o
+*~
+gen-syscall
+pars.c
+pars.h
+scan.c
+syscalls.stmp
+SRCFILES.traps
+trap_1*.c

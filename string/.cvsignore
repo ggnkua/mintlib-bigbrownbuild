@@ -1,0 +1,12 @@
+.deps
+*.o
+*~
+lib*.a
+test-common
+test-copy
+test-ffs
+test-inlcall
+test-inline
+test-noinline
+test-strlen
+test-svc
